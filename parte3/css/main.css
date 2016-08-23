@@ -1,1 +1,17 @@
-/* Pon tu código css aqui */
+.cajayellow, .cajablue, .cajaviolet{
+	width: 180px;
+	height: 120px;
+	float:right;
+}
+.cajayellow{
+	background-color: yellow;
+}
+.cajablue{
+	background-color: blue;
+}
+.cajaviolet{
+	background-color: violet;
+}
+.cajacontenedor{
+	border:1px solid black;
+}
